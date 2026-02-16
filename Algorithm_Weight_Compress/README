@@ -1,0 +1,10 @@
+###
+SQNR_Performance
+用于评估同样噪声下，MRR能级选择对最终压缩结果的影响
+例如以40dB为目标，4bit
+
+###
+Encode_Demo_Binary
+用于展示压缩算法在不同NN的压缩结果，在给定的SQNR目标下，
+输出不同模型的平均K值、平均SQNR值
+
